@@ -25,8 +25,8 @@ To get started with this repository, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Dejatori/team-software-enginnering-with-ai
-   cd team-software-enginnering-with-ai
+   git clone https://github.com/Dejatori/ai-powered-software-and-system-design
+   cd ai-powered-software-and-system-design
    ```
 
 2. **Set up a Python environment** (recommended):
