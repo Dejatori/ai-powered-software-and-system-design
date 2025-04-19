@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*__pycache__/
+*pytest_cache/
+.ruff_cache/
+*.tar.gz
+*.sh
+*.db
+*.log
